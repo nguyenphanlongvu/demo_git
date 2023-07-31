@@ -1,0 +1,3 @@
+chon: git add-A (git stuts:show tt)
++xacs nhan :git commit -m " nd"
++day:git push
