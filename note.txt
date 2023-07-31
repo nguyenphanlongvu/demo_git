@@ -1,5 +1,7 @@
 chon: git add-A (git stuts:show tt)
 +xacs nhan :git commit -m " nd"
 +day:git push
-lần 2  tror lên :git push 
-+
+lần 2  tro lên :git push 
+*brach 
+tao nhánh :git checkout -b loginn
+chuyển nhánh :git checkout  master 
