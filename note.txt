@@ -6,3 +6,4 @@ lần 2  tro lên :git push
 tao nhánh :git checkout -b loginn
 chuyển nhánh :git checkout  master 
 gop nhom merge login
++git  clone "nội dung " .
